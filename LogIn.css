@@ -1,0 +1,31 @@
+.root{
+    -fx-background-color: #92C591;
+}
+
+.label{
+    -fx-font-size: 20;
+    -fx-text-fill: #0A3409;
+}
+
+#logIn{
+    -fx-font-size: 15;
+    -fx-pref-width: 70;
+    -fx-pref-height: 35;
+    -fx-background-color: #E8F3E8;
+    -fx-text-fill: #0A3409;
+}
+
+.text-field{
+    -fx-background-color: #E8F3E8;
+    -fx-text-fill: #305A30;
+}
+
+.text-field:focused{
+    -fx-border-color: #305A30;
+    -fx-border-radius: 3;
+}
+
+.button:focused{
+    -fx-border-color: #305A30;
+    -fx-border-radius: 3;
+}

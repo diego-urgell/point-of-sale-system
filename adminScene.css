@@ -1,0 +1,112 @@
+.root{
+    -fx-background-color: #E8F3E8;
+}
+
+#adminHeader{
+    -fx-background-color: #92c591;
+    -fx-border-color: #004000;
+    -fx-border-width: 3 3 3 3;
+}
+
+#uPosAdmin, #pharmacyAdmin{
+    -fx-font-size: 33;
+    -fx-font-weight: bold;
+}
+
+#mainAdminMenu{
+    -fx-font-size: 18;
+    -fx-pref-height: 30;
+}
+
+
+.button{
+    -fx-font-size: 20;
+    -fx-pref-height: 35;
+    -fx-text-fill: #0A3409;
+}
+
+.label{
+    -fx-font-size: 20;
+    -fx-text-fill: #0A3409;
+}
+
+#idLabelAdmin, #totalLabelAdmin{
+    -fx-font-size: 30;
+}
+
+#uPosAdmin, #pharmacyAdmin{
+    -fx-font-size: 33;
+    -fx-font-weight: bold;
+}
+
+#adminHeader{
+    -fx-background-color: #92C591;
+    -fx-border-color: #004000;
+    -fx-border-width: 3 3 3 3;
+}
+
+#chargeAdmin{
+    -fx-background-color: #ffa500;
+    -fx-pref-height: 40;
+    -fx-pref-width: 325;
+    -fx-font-size: 20;
+}
+
+#retAdmin{
+    -fx-background-color: #ff4c4c;
+    -fx-pref-height: 50;
+    -fx-pref-width: 375;
+    -fx-font-size: 20;
+}
+
+#addAdmin{
+    -fx-background-color: #ffff1a;
+    -fx-pref-height: 40 ;
+    -fx-pref-width: 175 ;
+    -fx-font-size: 20;
+}
+
+#saleMenuAdminRectangle, #newClientAdminRectangle, #adminSalesRectangle {
+    -fx-fill: #92C591;
+}
+
+.text-field{
+    -fx-pref-height: 40;
+}
+
+.tab-label{
+    -fx-pref-height: 50;
+    -fx-pref-width: 250;
+    -fx-font-size: 20;
+    -fx-font-weight: bold;
+}
+
+#recAddClientsAdmin, #recDelClientAdmin, #saleMenuAdminRectangle, #newClientAdminRectangle, #adminSalesRectangle, #productsRec{
+    -fx-fill: #92C591;
+}
+
+.tab-label{
+    -fx-pref-height: 50;
+    -fx-pref-width: 250;
+    -fx-font-size: 20;
+    -fx-font-weight: bold;
+}
+
+.tab-pane .tab:selected{
+    -fx-background-color: #92C591;
+    -fx-font-size: 15;
+}
+
+.tab-pane .tab-header-area {
+    -fx-pref-height: 40;
+    -fx-tab-min-width:90;
+}
+
+.tab-pane .tab-header-area .tab-header-background {
+    -fx-opacity: 0;
+}
+
+.table-column {
+  -fx-alignment: CENTER;
+  -fx-font-size: 20;
+}

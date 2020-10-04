@@ -1,0 +1,107 @@
+.root{
+    -fx-background-color: #E8F3E8;
+}
+
+.button{
+    -fx-font-size: 20;
+    -fx-pref-height: 35;
+    -fx-background-color: #E8F3E8;
+    -fx-text-fill: #0A3409;
+}
+
+.label{
+    -fx-font-size: 20;
+    -fx-text-fill: #0A3409;
+}
+
+#idLabel, #totalLabel{
+    -fx-font-size: 30;
+}
+
+#uPos, #pharmacy{
+    -fx-font-size: 33;
+    -fx-font-weight: bold;
+}
+
+#mainStaffMenu{
+    -fx-font-size: 18;
+    -fx-pref-height: 30;
+}
+
+#staffHeader{
+    -fx-background-color: #92C591;
+    -fx-border-color: #004000;
+    -fx-border-width: 3 3 3 3;
+}
+
+#charge{
+    -fx-background-color: #ffa500;
+    -fx-pref-height: 40;
+    -fx-pref-width: 325;
+    -fx-font-size: 20;
+}
+
+#ret{
+    -fx-background-color: #ff4c4c;
+    -fx-pref-height: 50;
+    -fx-pref-width: 375;
+    -fx-font-size: 20;
+}
+
+#add{
+    -fx-background-color: #ffff1a;
+    -fx-pref-height: 40 ;
+    -fx-pref-width: 175 ;
+    -fx-font-size: 20;
+}
+
+.text-field{
+    -fx-pref-height: 40;
+}
+
+#newClientButtonStaff{
+    -fx-background-color: #38eeff;
+    -fx-pref-height: 40;
+    -fx-pref-width: 325;
+    -fx-font-size: 20;
+}
+
+#saleMenuStaffRectangle, #newClientStaffRectangle, #staffSalesRectangle {
+     -fx-fill: #92C591;
+ }
+
+#totalLabel, #totalField{
+-fx-font-size: 30;
+}
+
+.button:focused{
+    -fx-border-color: #305A30;
+    -fx-border-radius: 3;
+}
+
+.table-column {
+  -fx-alignment: CENTER;
+  -fx-font-size: 20;
+}
+
+ #completeButton{
+    -fx-pref-height: 50;
+    -fx-pref-width: 150;
+    -fx-background-color: #38eeff;
+    -fx-font-size: 20;
+}
+
+#cancelButton{
+    -fx-pref-height: 50;
+    -fx-pref-width: 150;
+    -fx-background-color: #ff4c4c;
+    -fx-font-size: 20;
+}
+
+#totalName, #cashLabel {
+    -fx-font-size: 20;
+}
+
+#cashInput{
+    -fx-font-size: 20;
+}
